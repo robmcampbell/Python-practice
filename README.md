@@ -1,2 +1,2 @@
-# Python-practice
-A selection of projects I have been doing to practice my coding - a bit more "rough and ready"
+# Python-practice 🐍
+After spending a month or so learning key Python skills and syntax, I wanted to put my work together in a portfolio so I can keep my projects organized and demonstrate my progress. In this folder, you will find a selection of shorter projects I have been working on to practice my coding. These projects are intended to be quite "rough and ready" but serve to track my development. Over time, I hope to move on to more challenging, larger coding projects and place those in a different repository. Enjoy!
